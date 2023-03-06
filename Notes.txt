@@ -1,0 +1,8 @@
+1. Wildcard Selectors (* Universal Selector).
+2. 10vh : means occupying 10% of entire visible screen height.
+3. <nav> tag contains a set of major navigation links used for navigating into different or same pages of the website.
+4. Shortcut for writing div-id : #idname
+5. Shortcut for writing div-class : div.classname
+6. flex-basis : specifies initial length of flexible system
+7. attribute of link element: target="_blank" ----linked document opens in a new tab
+8. for email link: <a href="mailto:someone@gmail.com">E-mail</a>
